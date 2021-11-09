@@ -290,7 +290,6 @@ def e_greedy(train_data, oracles, online_dataset, epsilon, verification_dataset,
             selected_algo_idx = np.argmin(preds) #np.argmax(preds)#
         
         selected_algo_label = algorithms[selected_algo_idx]#getLabel(selected_algo_idx)
-        #TODO: Fix this
 
         index = online_indices[i]
         selected_cost = getCost(selected_algo_label, master_frame, index)
