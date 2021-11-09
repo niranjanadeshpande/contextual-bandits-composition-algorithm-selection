@@ -31,11 +31,11 @@ This folder contains the files requried to replicate our results. They are:
 
   The first argument (3) denotes the exploration strategy to be used and the second argument denotes the exploration parameter.
   Following are the values for different contextual bandits strategies:
-  - 1001: Greedy
-  - 888: Greedy full-information
-  - 999: Greedy no learning
-  - 3: Upper Confidence Bound (UCB)
-  - 4: Epsilon-Greedy (If the epsilon parameter is set to 0, this is equivalent to greedy)
+    - 1001: Greedy
+    - 888: Greedy full-information
+    - 999: Greedy no learning
+    - 3: Upper Confidence Bound (UCB)
+    - 4: Epsilon-Greedy (If the epsilon parameter is set to 0, this is equivalent to greedy)
 
 - The last file, **plots.py** generates two figures:
   - A scatterplot that compares the performance of greedy, greedy no learning and greedy full-information to demonstrate that greedy makes better selections
