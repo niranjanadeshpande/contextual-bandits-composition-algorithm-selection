@@ -21,7 +21,11 @@ The project source code is in python and has been executed using :
 - pickle
 
 ## Description
-
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
 
 To begin, download and unzip the file named "contextual-bandits-composition-algorithm-selection-main.zip"
 This foldercontains the following files:
