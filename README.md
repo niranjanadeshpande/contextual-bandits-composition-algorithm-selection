@@ -21,11 +21,8 @@ The project source code is in python and has been executed using :
 - pickle
 
 ## Description
-- Item 1
-- Item 2
-- Item 3
-  - Sub Item 1
-  - Sub Item 2
+
+
 
 To begin, download and unzip the file named "contextual-bandits-composition-algorithm-selection-main.zip"
 This foldercontains the following files:
@@ -43,7 +40,9 @@ Following are the values for different contextual bandits strategies:
   -4: Epsilon-Greedy (If the epsilon parameter is set to 0, this is equivalent to greedy)
 
 -The last file, "plots.py" generates two figures:
-  -(1) A scatterplot that compares the performance of greedy, greedy no learning and greedy full-information to demonstrate that greedy makes better selections
-  -(2) A lineplot that shows the sum of time and memory as a function of the number of composition tasks handled for each contextual bandits strategy, the Single Best Solver (SBS) and the Virtual Best Solver (VBS).
+- Item 3
+  - Sub Item 1
+  - A scatterplot that compares the performance of greedy, greedy no learning and greedy full-information to demonstrate that greedy makes better selections
+  - A lineplot that shows the sum of time and memory as a function of the number of composition tasks handled for each contextual bandits strategy, the Single Best Solver (SBS) and the Virtual Best Solver (VBS).
 
 The plots and results in the paper can also be found in the results folder.
