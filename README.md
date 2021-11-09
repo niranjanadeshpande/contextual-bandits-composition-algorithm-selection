@@ -1,5 +1,8 @@
 # contextual-bandits-composition-algorithm-selection
 
+## subsection 1
+
+
 This project contains the code required to demonstrate the impact of using contectual multi-armed bandits for online service composition algorithm selection.
 The file "thresholded_master_frame.pkl" contains execution data for four popular service composition algorithms on 6,144 composition tasks created using the WS-DREAM dataset.
 These algorithms are: Multi-Constrained Shortest Path (MCSP), Ant Colony System Optimization (ACS), Genetic Algorithm (GA) and Particle Swarm Optimization (PSO).
