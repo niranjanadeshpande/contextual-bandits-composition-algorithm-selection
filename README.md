@@ -28,6 +28,7 @@ This folder contains the files requried to replicate our results. They are:
 
 - **bandits_concise.py**: This is the source code required to run contextual bandits with three different exploration strategies: greedy, epsilon-greedy, upper confidence bound (UCB). It is executed as follows:
 > python bandits_concise.py 3 0.3 
+
 The first argument (3) denotes the exploration strategy to be used and the second argument denotes the exploration parameter.
 Following are the values for different contextual bandits strategies:
   -1001: Greedy
