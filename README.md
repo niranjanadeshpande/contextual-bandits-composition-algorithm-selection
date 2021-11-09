@@ -39,7 +39,7 @@ Following are the values for different contextual bandits strategies:
   -3: Upper Confidence Bound (UCB)
   -4: Epsilon-Greedy (If the epsilon parameter is set to 0, this is equivalent to greedy)
 
--The last file, "plots.py" generates two figures:
+- The last file, "plots.py" generates two figures:
 - Item 3
   - Sub Item 1
   - A scatterplot that compares the performance of greedy, greedy no learning and greedy full-information to demonstrate that greedy makes better selections
