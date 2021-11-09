@@ -34,7 +34,7 @@ This folder contains the files requried to replicate our results. They are:
   - 4: Epsilon-Greedy (If the epsilon parameter is set to 0, this is equivalent to greedy)
 
 - The last file, **plots.py** generates two figures:
-  - A scatterplot that compares the performance of greedy, greedy no learning and greedy full-information to demonstrate that greedy makes better selections
-  - A lineplot that shows the sum of time and memory as a function of the number of composition tasks handled for each contextual bandits strategy, the Single Best Solver (SBS) and the Virtual Best Solver (VBS).
+  - **online_learning_ablation.pdf**:A scatterplot that compares the performance of greedy, greedy no learning and greedy full-information to demonstrate that greedy makes better selections
+  - **sbs_vbs_time_and_memory_bandits_cost_curve.pdf**: A lineplot that shows the sum of time and memory as a function of the number of composition tasks handled for each contextual bandits strategy, the Single Best Solver (SBS) and the Virtual Best Solver (VBS).
 
 The plots and results in the paper can also be found in the results folder.
