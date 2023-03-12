@@ -1,8 +1,8 @@
 # contextual-bandits-composition-algorithm-selection
 
 ## Overview
-These files contain the source code and dataset required to replicate the results for the ICSA 2022 submission titled "Towards Robust SOA Implementation Using Online Composition Algorithm Selection".
-This submission demonstrates the impact of using contextual multi-armed bandits for online service composition algorithm selection.
+These files contain the source code and dataset required to replicate the results for our ICWS 2022 paper titled "Online Learning Using Incomplete Execution Data for Self-Adaptive Service-Oriented Systems".
+Our work demonstrates the impact of using contextual multi-armed bandits for online service composition algorithm selection.
 
 ## Pre-Requisites
 
