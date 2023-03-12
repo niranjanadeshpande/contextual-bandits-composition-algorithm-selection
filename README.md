@@ -1,8 +1,7 @@
 # contextual-bandits-composition-algorithm-selection
 
 ## Overview
-These files contain the source code and dataset required to replicate the results for our ICWS 2022 paper titled "Online Learning Using Incomplete Execution Data for Self-Adaptive Service-Oriented Systems".
-Our work demonstrates the impact of using contextual multi-armed bandits for online service composition algorithm selection.
+This repository contains the source code and dataset that demonstrates the impact of using contextual multi-armed bandits for online service composition algorithm selection. This code motivated the ICWS 2022 paper titled "Online Learning Using Incomplete Execution Data for Self-Adaptive Service-Oriented Systems".
 
 ## Pre-Requisites
 
